@@ -35,3 +35,4 @@ else:
 
 print('la somme est:',sum(my_list))
 
+
