@@ -13,6 +13,7 @@ if my_list:
 else:
     print('iste vide')
 
+
 som=somme(my_list)
 print('la somme est =',som)
 my_list=[1,5,7]
@@ -33,12 +34,3 @@ else:
 
 print('la somme est:',sum(my_list))
 
-=======
->>>>>>> feature_list
-=======
-
->>>>>>> feature_list
-=======
->>>>>>> feature_list
-=======
->>>>>>> feature_list
